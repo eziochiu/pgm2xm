@@ -10,6 +10,7 @@
 
 #include <stdlib.h>           /* For size_t                 */
 #include <stdbool.h>          /* For bool                   */
+#include <stdint.h> 
 
 /*
 **  File: CRC_32.C
